@@ -38,12 +38,9 @@ function Header() {
               </li>
             </ul>
           </nav>
-          <button
-            className="header__btn btn-reset"
-            type="button"
-            aria-label="SIGN UP">
+          <a className="header__sign" href="/">
             SIGN UP
-          </button>
+          </a>
         </div>
       </div>
     </header>

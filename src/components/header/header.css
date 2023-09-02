@@ -27,7 +27,6 @@
 .header__item {
   font-size: 22px;
   font-weight: 500;
-  line-height: normal;
   letter-spacing: 0.22px;
 }
 
@@ -39,15 +38,15 @@
   color: currentColor;
 }
 
-.header__btn {
+.header__sign {
   display: inline-block;
   max-width: 134px;
+  text-align: center;
   width: 100%;
-  padding: 13px 22px;
+  padding: 13px 23px;
   color: var(--white);
   font-size: 24px;
   font-weight: 500;
-  line-height: normal;
   letter-spacing: -0.72px;
   border-radius: 7px;
   background-color: var(--black);
