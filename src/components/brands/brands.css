@@ -1,0 +1,12 @@
+.brands {
+  background-color: var(--confetti);
+}
+
+.brands__list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+  padding: 58px 0;
+  mix-blend-mode: darken;
+}
