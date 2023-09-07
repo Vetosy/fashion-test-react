@@ -1,0 +1,14 @@
+.product {
+  padding: 120px 0 150px;
+}
+
+.product__title {
+  margin-bottom: 114px;
+}
+
+.product__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 131px;
+}
